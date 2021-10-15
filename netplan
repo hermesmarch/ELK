@@ -1,1 +1,13 @@
+# This is the network config written by 'subiquity'
+network:
+  ethernets:
+    enp0s25:
+      dhcp4: no
+      addresses:
+              - 140.113.200.162/26
+      gateway4: 140.113.200.190
+      nameservers:
+              addresses: [8.8.8.8, 1.1.1.1]
+      dhcp6: true
+  version: 2
 
