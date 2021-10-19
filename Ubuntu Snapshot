@@ -1,2 +1,5 @@
 20211014 13:41:55 snapshot for 還沒開始設定 security 的ELK
 在開始設定 security 前
+
+
+2021/10/19 13:51 Elasticsearch, kibana 可以 start ，但 kibana.log 顯示 elalsticsearch 版本的問題 Unable to retrieve version information from Elasticsearch nodes. unable to verify the first certificate
