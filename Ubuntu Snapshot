@@ -1,3 +1,11 @@
+
+2021/10/25 13:08 kibana, elasticsearch 裝好了，client 連 140.113.200.162/kibana 出現“{"statusCode":404,"error":"Not Found","message":"Not Found"}” ; pero server端可以打開 Kibana 了。
+2021/10/25 1025 設定好 IP, desktop , timeshift , ufw 設定 install java, nginx 
+2021/10/25 0951 Ubuntu 20.04 , 設定好 IP, desktop , timeshift , ufw 設定, java, nginx 
+
+
+
+
 20211021 16：47    Elasticsearch , kibana 安裝好了，用 localhost 可以連了，但用IP不行
 2021-10-21_12-46-12 Ubuntu 20.04 , 設定好 IP, desktop , timeshift 
 
