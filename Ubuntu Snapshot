@@ -1,3 +1,8 @@
+6    >  2021-10-26_10-55-25  D     after install openssl and minima security    
+7    >  2021-10-26_13-31-27  D     kibana setup ok; logstash intall pero no setup ssl
+
+2021-10-26_09-32-06 完成 basic security 設定
+
 2021/10/25 16:38 client 140.113.200.162 可以打開kibana；server 140.113.200.162:5601 可以開 kibana ~~~~耶！finalmente. 
 2021/10/25 13:08 kibana, elasticsearch 裝好了，client 連 140.113.200.162/kibana 出現“{"statusCode":404,"error":"Not Found","message":"Not Found"}” ; pero server端可以打開 Kibana 了。
 2021/10/25 1025 設定好 IP, desktop , timeshift , ufw 設定 install java, nginx 
