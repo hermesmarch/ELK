@@ -1,24 +1,13 @@
-7    >  2021-10-26_13-31-27  D     kibana setup ok; logstash intall pero no setup ssl
-6    >  2021-10-26_10-55-25  D     after install openssl and minima security    
-
-
-2021-10-26_09-32-06 完成 basic security 設定
-
-2021/10/25 16:38 client 140.113.200.162 可以打開kibana；server 140.113.200.162:5601 可以開 kibana ~~~~耶！finalmente. 
-2021/10/25 13:08 kibana, elasticsearch 裝好了，client 連 140.113.200.162/kibana 出現“{"statusCode":404,"error":"Not Found","message":"Not Found"}” ; pero server端可以打開 Kibana 了。
-2021/10/25 1025 設定好 IP, desktop , timeshift , ufw 設定 install java, nginx 
-2021/10/25 0951 Ubuntu 20.04 , 設定好 IP, desktop , timeshift , ufw 設定, java, nginx 
-
-
-
-
-20211021 16：47    Elasticsearch , kibana 安裝好了，用 localhost 可以連了，但用IP不行
-2021-10-21_12-46-12 Ubuntu 20.04 , 設定好 IP, desktop , timeshift 
-
-
-
-
-20211014 13:41:55 snapshot for 還沒開始設定 security 的ELK
-在開始設定 security 前
-
-2021/10/19 13:51 Elasticsearch, kibana 可以 start ，但 kibana.log 顯示 elalsticsearch 版本的問題 Unable to retrieve version information from Elasticsearch nodes. unable to verify the first certificate
+Num     Name                 Tags  Description
+------------------------------------------------------------------------------
+0    >  2021-10-25_09-41-25  O
+1    >  2021-10-25_10-27-09  O
+2    >  2021-10-25_13-18-12  O
+3    >  2021-10-25_14-06-33  O
+4    >  2021-10-25_16-38-23  O
+5    >  2021-10-26_09-32-06  O
+6    >  2021-10-26_10-55-25  D     after install openssl and minima security
+7    >  2021-10-27_13-01-21  D     security basic setup ok
+8    >  2021-10-27_14-17-56  D     security basic setup https antes de encrypt traffic between your browser and kibana
+9    >  2021-10-27_15-40-11  D     despues Encrypt traffic between your browser and Kibana
+10   >  2021-10-27_16-36-17  D     Se puede connect en client en NGINX
