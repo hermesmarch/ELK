@@ -11,4 +11,5 @@ Num     Name                 Tags  Description
 8    >  2021-10-27_14-17-56  D     security basic setup https antes de encrypt traffic between your browser and kibana
 9    >  2021-10-27_15-40-11  D     despues Encrypt traffic between your browser and Kibana
 10   >  2021-10-27_16-36-17  D     Se puede connect en client en NGINX
-11   >  2021-10-28_10-26-12  D     setup kibana security, puede usar Alert      
+11   >  2021-10-28_10-26-12  D     setup kibana security, puede usar Alert      (rollback failed) 
+12   >  2021-10-29_11-40-12  D     after install logstash,filebeat, metricbeat, elastalert pero no create index for logstash,filebeat,metricbeat
