@@ -6,10 +6,10 @@ Num     Name                 Tags  Description
 3    >  2021-10-25_14-06-33  O
 4    >  2021-10-25_16-38-23  O
 5    >  2021-10-26_09-32-06  O
-6    >  2021-10-26_10-55-25  D     after install openssl and minima security
+6    >  2021-10-26_10-55-25  D     after install openssl and minima security --〉 〈《restore 後 Kibana 打不開，是 Elasticsearch 的問題》〉
 7    >  2021-10-27_13-01-21  D     security basic setup ok
 8    >  2021-10-27_14-17-56  D     security basic setup https antes de encrypt traffic between your browser and kibana
 9    >  2021-10-27_15-40-11  D     despues Encrypt traffic between your browser and Kibana
 10   >  2021-10-27_16-36-17  D     Se puede connect en client en NGINX
-11   >  2021-10-28_10-26-12  D     setup kibana security, puede usar Alert      (rollback failed) 
+11   >  2021-10-28_10-26-12  D     setup kibana security, puede usar Alert   --〉   (rollback failed) 
 12   >  2021-10-29_11-40-12  D     after install logstash,filebeat, metricbeat, elastalert pero no create index for logstash,filebeat,metricbeat
